@@ -1,0 +1,15 @@
+services:
+  jupyter:
+    container_name: jupyter
+    build: 
+      dockerfile: .devcontainer/Dockerfile
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/jovyan/work
+    command: >
+      start-notebook.sh
+      --NotebookApp.token=''
+      --NotebookApp.password=''
+      --NotebookApp.allow_origin='*'
+      --ip=0.0.0.0

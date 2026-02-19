@@ -14,12 +14,31 @@ An automated pipeline that scrapes laptop prices and specifications from Trendyo
 
 - **Scraping**: Node.js, Puppeteer
 - **Analysis**: Python, Pandas, NumPy, Jupyter Notebook
+- **Containerization**: Docker, Docker Compose
 
 ## Installation
+
+### Option 1: Docker (Recommended)
+
+**Prerequisites:**
+- Docker and Docker Compose must be installed ([download here](https://docs.docker.com/get-docker/))
+
+1. Clone the project and navigate to the directory:
+   ```bash
+   docker-compose up -d
+   ```
+
+2. Start using Jupyter Notebook:
+   - Open http://localhost:8888 in your browser
+   - Jupyter environment will start automatically
+
+### Option 2: Local Installation
 
 1. Install Node.js dependencies:
    ```bash
    npm install
+   ```
+
 2. Install Python dependencies:
    ```bash
    pip install -r requirements.txt
@@ -27,12 +46,35 @@ An automated pipeline that scrapes laptop prices and specifications from Trendyo
 
 ## Usage
 
+### Using Docker
+
+**Running Scraper (inside Docker container):**
+```bash
+docker-compose exec jupyter node scraper.js
+```
+
+**Running Python Scripts:**
+```bash
+docker-compose exec jupyter python scripts/extract_features.py
+```
+
+**Running Tests:**
+```bash
+docker-compose exec jupyter python tests/test_cases.py
+```
+
+**Stopping Container:**
+```bash
+docker-compose down
+```
+
+### Using Local Installation
+
 **1. Run the Scraper**
-Start the data collection process. This will generate `trendyol_full_dataset.json`.
+Start the data collection process. This will generate `dataset.json`.
 
 ```bash
 node scraper.js
-
 ```
 
 **2. Run Analysis**
@@ -40,7 +82,6 @@ Open the Jupyter Notebook to visualize and analyze the gathered data.
 
 ```bash
 jupyter notebook notebooks/00_datapreview.ipynb
-
 ```
 
 **3. Test Feature Extraction**
@@ -48,5 +89,4 @@ Verify the text processing logic used for specification extraction.
 
 ```bash
 python scripts/test.py
-
 ```

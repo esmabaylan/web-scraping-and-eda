@@ -3,7 +3,7 @@ import re
 cpu_pattern = re.compile(
     r"\b"+r"""
     # ================= INTEL =================
-
+    \b
     (
         (intel\s*)?
         (core\s*)?
@@ -12,18 +12,34 @@ cpu_pattern = re.compile(
         \s*[-]?\s*
         (\d{4,5}[a-z]{0,2})?       # 13450HX, 14650HX (opsiyonel)
     )
-
+    \b
     |
+    \b
     (
     
         (intel\s*)?
         core\s*
         [57]                       # Core 5 / Core 7
-        \s*
+        \s*[-]?\s*
         (\d{3,5}[a-z]{0,2})?
     )
-
+    \b
     |
+    \b
+    (ultra\s*)
+    \s*?
+    [3579]                       # 5, 7, 9 serisi (ultra ile birlikte)
+    \s*[-]?\s*
+    (\d{3,5}[a-z]{0,2})?
+    \b
+    |
+    \b
+    [3579]
+    \s*[-]\s*?
+    (\d{3,5}[a-z]{0,2})       # Sadece serisi ve model numarası (i7 1165G7 gibi)
+    \b
+    |
+    \b
     (
         (intel\s*)?
         (celeron|pentium)         # Celeron veya Pentium kelimesini zorunlu kıldık
@@ -34,6 +50,7 @@ cpu_pattern = re.compile(
             \d{3,4}[a-z]?         # Sadece sayı olan eski modeller
         )?
     )
+    \b
     |
     # ================= AMD =================
 (

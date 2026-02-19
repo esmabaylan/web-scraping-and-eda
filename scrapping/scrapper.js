@@ -75,7 +75,7 @@ const targetUrls = [
         globalAllProducts = globalAllProducts.concat(brandProducts);
     }
 
-    fs.writeFileSync('dataset.json', JSON.stringify(globalAllProducts, null, 2));
+    fs.writeFileSync('../data/raw/dataset.json', JSON.stringify(globalAllProducts, null, 2));
     console.log(`\nToplam ${globalAllProducts.length} ürün toplandı.`);
     await browser.close();
 })();
