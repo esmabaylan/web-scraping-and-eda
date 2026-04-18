@@ -1,5 +1,9 @@
 
 import os
+
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-print("BASE_DIR: ", BASE_DIR)
+DATA_DIR = os.path.join(BASE_DIR, "data")
+
+EVAL_DIR = os.path.join(DATA_DIR, "evaluate_data")
+

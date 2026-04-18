@@ -2,28 +2,12 @@ import sys
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
-import re
+import regex as re
 import logging as log
-import scripts.pattern as pt 
+import scripts.older_pattern as pt
+import scripts.gpu_scripts.gpu_utils as gpu_utils
+from scripts.utils import normalize_text
 
-def normalize_text(text: str) -> str:
-    if not isinstance(text, str):
-        log.warning("normalize_text: input is not a string")
-        return None
-
-    text = text.replace("İ", "I").replace("ı", "i")
-    text = text.replace("Ö", "O").replace("ö", "o")
-    text = text.replace("Ü", "U").replace("ü", "u")
-    text = text.replace("Ç", "C").replace("ç", "c")
-    text = text.replace("Ş", "S").replace("ş", "s")
-    text = text.replace("Ğ", "G").replace("ğ", "g")
-
-    text = text.lower()
-
-    text = re.sub(r"[,\-]", " ", text)
-    text = re.sub(r"\s+", " ", text).strip()
-
-    return text
 
 def get_features(text)-> dict:
     if not isinstance(text, str):
@@ -46,23 +30,6 @@ def get_features(text)-> dict:
         "os": os
     }
 
-def remove_features(text):
-    if not isinstance(text, str):
-        log.warning("remove_features: input is not a string")
-        return None
-    # removed gpu,series and cpu
-    text = normalize_text(text)
-    features = get_features(text)
-
-    for feature in features.values():
-        if feature:
-            text = text.replace(feature, "")
-            print(f"Removed feature: {feature}")
-            print(f"Text after removal: {text}")
-            print("-" * 40)
-
-
-    return text
 
 def extract_series(text):
     if not isinstance(text, str):
@@ -75,6 +42,37 @@ def extract_series(text):
         return match.group(0)
     return None
 
+
+def normalize_cpu(raw: str) -> str:
+    raw = raw.replace("-", " ").replace(",", " ").replace("/", " ")
+    raw = re.sub(r"\s+", " ", raw).strip()
+    raw = re.sub(r"\br\s*([3579])", r"ryzen \1", raw)
+
+    if re.search(r"\bi[3579]\b", raw):
+        if "intel" not in raw.lower():
+            raw = "intel core " + raw
+
+    if re.search(r"\bR[3579]?\b", raw):
+        if "amd" not in raw.lower():
+            raw = "amd " + raw
+
+    return raw.title()
+
+def detect_cpu_brand(text:str) -> str:
+    model_pattern=re.compile(r"""\b\d{4,5}[a-zA-Z]{0,2}\b""",re.VERBOSE,re.IGNORECASE)
+
+    
+    model_match=re.search(model_pattern,text)
+
+
+
+    if (model_match.group(0).startswith("i") or model_match.group(0).startswith("u")) or (model_match.group(0).startswith("1")):
+        return "intel"
+    elif model_match.group(0).startswith("R") or model_match.group(0).startswith(("3","5","7","9")):
+        return "amd"
+    else:
+        return "unknown"
+    
 def extract_cpu(text):
     if not isinstance(text, str):
         log.warning("extract_cpu: input is not a string")
@@ -83,62 +81,49 @@ def extract_cpu(text):
     match = pt.cpu_pattern.search(text)
 
     if not match:
+        log.info("extract_cpu: no match found in text: %s", text)
         return None
-
     raw = match.group(0)
-
-    raw = raw.replace("-", " ").replace(",", " ").replace("/", " ")
-    raw = re.sub(r"\s+", " ", raw).strip()
-
-    raw = re.sub(r"\s+", " ", raw).strip()
-
-    raw = re.sub(r"\br\s*([3579])", r"ryzen \1", raw)
-
-    if re.search(r"\bi[3579]\b", raw):
-        if "intel" not in raw:
-            raw = "intel core " + raw
-    if re.search(r"\bR[3579]?\b", raw):
-        if "amd" not in raw:
-            raw = "amd " + raw
-
-    raw = raw.title()
-
-    return raw
+    normalized = normalize_cpu(raw)
+    return normalized
 
 def extract_gpu(text):
     if not isinstance(text, str):
         log.warning("extract_gpu: input is not a string")
         return None
-    match = pt.gpu_pattern.search(text)
 
-    if not match:
-        log.info("extract_gpu: no match found in text: %s", text)
-        return None
+    return gpu_utils.handle_gpu(text)
 
-    raw = match.group(0)
 
-    raw = raw.replace("-", " ").replace(",", " ")
-    raw=raw.replace("/"," ")
-    raw = re.sub(r"\s+", " ", raw).strip()
-
-    raw = re.sub(r"\s+", " ", raw).strip()
-
-    return raw
 
 def extract_ram(text):
     if not isinstance(text, str):
         log.warning("extract_ram: input is not a string")
         return None
+    
+    matchList=pt.ram_pattern.findall(text)
+
+    matchList 
+
+
     match = pt.ram_pattern.search(text)
 
     if not match:
         log.info("extract_ram: no match found in text: %s", text)
         return None
 
+
+
     raw = match.group(0)
+
 
     raw = raw.replace("-", " ").replace(",", " ")
     raw=raw.replace("/"," ")
+    if re.search(r"\b(\d+)\s*(gb?|tb?)\b|\bddr[3456]", raw, re.IGNORECASE):  
+        raw = re.sub(r"\b(\d+)\s*gb\b", r"\1 GB", raw, flags=re.IGNORECASE)
+        raw = re.sub(r"\b(\d+)\s*tb\b", r"\1 TB", raw, flags=re.IGNORECASE)
+        raw = re.sub(r"\bddr([3456])\s*?(\d+)\b", r"DDR\1 \2 GB", raw, flags=re.IGNORECASE)
+
     raw = re.sub(r"\s+", " ", raw).strip()
     raw = re.sub(r"(\d+)([a-zA-Z]+)", r"\1 \2", raw)
 
@@ -169,7 +154,6 @@ def extract_storage(text):
     if not match:
         log.info("extract_storage: no match found in text: %s", text)
         return None
-    
     max_storage = max(match, key=lambda x: int(x[0]) if x[1].lower() == 'gb' else int(x[0]) * 1024)  
 
 
