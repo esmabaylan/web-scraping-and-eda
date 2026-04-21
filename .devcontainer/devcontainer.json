@@ -1,0 +1,29 @@
+{
+    "name": "docker-devcontainer",
+
+    "dockerComposeFile": [
+        "../docker-compose.yaml"
+    ],
+    
+    "service": "jupyter",
+
+    "workspaceFolder": "/home/jovyan/work",
+    "shutdownAction": "stopCompose",
+    "remoteUser": "jovyan",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "python.defaultInterpreterPath": "/opt/conda/bin/python",
+                "python.formatting.provider": "black"
+            },
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-toolsai.jupyter",
+                "ms-toolsai.datawrangler",
+                "mechatroner.rainbow-csv"
+                
+            ]
+        }
+    }
+}
