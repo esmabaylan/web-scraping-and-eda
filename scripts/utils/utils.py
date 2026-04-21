@@ -4,6 +4,7 @@ import os
 import regex as re
 import logging as log
 from datetime import datetime
+import numpy as np
 
 def normalize_text(text: str) -> str:
     if not isinstance(text, str):

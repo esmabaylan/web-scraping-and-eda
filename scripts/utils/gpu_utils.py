@@ -1,9 +1,10 @@
-import scripts.pattern as pt
+import scripts.pattern.gpu_pattern as pt
 import regex as re
 import logging as log
-import scripts.utils as utils
+import scripts.utils.utils as utils
 
 import pandas as pd
+import numpy as np
 
 def get_gpu_patterns():
     return {
@@ -13,18 +14,12 @@ def get_gpu_patterns():
         "apple": pt.apple_gpu_pattern
     }
 
-def normalize_gpu(raw: str) -> str:
-    raw = raw.replace("-", " ").replace(",", " ")
-    raw = raw.replace("/", " ")
-    raw = re.sub(r"\s+", " ", raw).strip()
-    raw= re.sub(r'(\d+)', r' \1 ', raw) 
-    return raw
 
 def handle_gpu(text):
     if pd.isna(text):
-        return "None"
+        return None
     
-    text = str(text).lower()
+    text = utils.normalize_text(text)
 
     # 1. NVIDIA
     nv_match = pt.nvidia_gpu_pattern.search(text)
@@ -34,7 +29,6 @@ def handle_gpu(text):
         number = nv_match.group(3) 
         suffix = nv_match.group(4) or "" 
         
-        # Altın verisetinin birebir beklediği boşluk formatları:
         if prefix == "mx":
             return f"mx{number}"                     # Örn: mx570a
         if pro == "a":
@@ -64,5 +58,5 @@ def handle_gpu(text):
     apple_match = pt.apple_gpu_pattern.search(text)
     if apple_match:
         return apple_match.group(1)                  # Örn: m2, m4
-
-    return "None"
+    utils.logging_file("gpu_warnings")
+    return None 

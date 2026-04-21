@@ -165,6 +165,9 @@ snapdragon_cpu_pattern=re.compile(
     re.IGNORECASE | re.VERBOSE
 )
 
+
+
+
 asus_series_pattern = re.compile(
     r"""
     (TUF\s*)
