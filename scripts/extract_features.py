@@ -5,7 +5,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import regex as re
 import logging as log
 import scripts.older_pattern as pt
-from scripts.utils import gpu_utils ,cpu_utils
+from scripts.utils import gpu_utils ,cpu_utils, ram_utils, storage_utils
 from scripts.utils.utils import normalize_text
 import scripts.utils.utils as utils
 import numpy as np
@@ -51,14 +51,23 @@ def extract_gpu(text):
 
 
 
-def extract_ram(text):    
-    return None
+def extract_ram(text):
+    if not isinstance(text, str):
+        log.warning("extract_ram: input is not a string")
+        utils.logging_file("ram_warnings")
+        return None
+    return ram_utils.handle_ram(text)
+
+def extract_storage(text):
+    if not isinstance(text, str):
+        log.warning("extract_storage: input is not a string")
+        utils.logging_file("storage_warnings")
+        return None
+    return storage_utils.handle_storage(text)
 
 def extract_os(text):
     return None
 
-def extract_storage(text):
-    return None
 
 def extract_series(text):
     return None

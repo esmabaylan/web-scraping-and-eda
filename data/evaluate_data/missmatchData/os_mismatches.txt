@@ -1,0 +1,864 @@
+Name: Victus 16-S1010NT 9Z790EA FR47 8GB RTX4060 Ryzen 7 8845HS 48 GB 4 TB 16,1" FHD 144Hz W11P
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Latitude 3540 Intel Core i5 1235U 12GB 4TB SSD 15.6" FHD W11H & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: IdeaPad Slim 5 Ryzen AI 7 350 16GB DDR5 256GB SSD 16" WUXGA W11P Dizüstü Bilgisayar & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 16-S1010NT 9Z790EA C19 8GB RTX4060 Ryzen 7 8845HS 16 GB 2 TB 16,1" FHD 144Hz W11H + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Excalibur G870 i7-13620H 32 GB 2TB RTX5060 165HZ 15.6" W11H Gaming Laptop G870.1362-DX60A-C
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 16 i7 13700H 24GB DDR5 1TB SSD RTX4070/8GB 144Hz 16.1'' W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Katana 17 HX i7-14650HX 32GB 4TB SSD RTX5060/8GB 17.3'' 2K QHD 240Hz W11H Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Latitude 3540 Intel Core i5 1235U 48GB 512GB SSD 15.6" FHD W11H & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 i7-13620H 48GB 1TB SSD RTX5060/8GB 15.6'' FHD 144Hz W11H Gaming Laptop & Per4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ExpertBook B5 Ultra 7 255H 24GB 512GB SSD 14" FHD+ W11H Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Crosshair 16 HX AI Ultra 9 275HX 40GB 512GB SSD RTX5070/8GB 115W 16" 2K QHD+ 240Hz W11P Gaming
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Excalibur G880 i7-13620H 16GB 480GB RTX5060 8GB 165Hz 15.6" W11H Gaming Laptop G880.1362-BV60A-C
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vivobook 15 M1502YA-BQ579A010 Ryzen7 5825U 16GB 1TBSSD 15.6" FHD W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 17 HX i9-14900HX 32GB 1TB SSD RTX5060/8GB 17.3'' 2K QHD 240Hz W11H Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16 Core 7 240H 16GB 512GB SSD RTX5060/8GB 16" FHD+ 165Hz W11H Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Precision M7780 XCTOP7780EMEA_VP1A7 i7-13850HX 64GB 2TBSSD RTX3500 17.3" FullHD W11P Taşınabili
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Excalibur G870 Intel 5-210H 64GB 4TB RTX5060 165HZ 15.6" W11H Gaming Laptop G870.210H-EN60A-C
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vostro 3530 Intel Core i5 1334U 36GB 2TB SSD 15.6" FHD W11P & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 15 i7 14650HX 128GB 1TB SSD RTX5060/8GB 115W 15.6" QHD 165Hz W11H Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo 16 AI Ultra 9 275HX 128GB 2TB SSD RTX5070Ti/12GB 170W 16" QHD+ W11P
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vostro 3530 i7-1355U 8GB 1TB SSD 15.6" 120 Hz FHD Win11P N1601PVNB3530U ATL85 Notebook +Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 Intel Core 7 240H 48GB 512GB SSD RTX5060/8GB 15.6'' 144Hz FHD W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo 16 AI Ultra 9 275HX 128GB 4TB SSD RTX5070Ti/12GB 170W 16" QHD+ W11P
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Alienware 16X Aurora Ultra 7 255HX 40GB 4TB SSD RTX5060/8GB 16" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 17 HX i9-14900HX 32GB 256GB SSD RTX5060/8GB 17.3'' 2K QHD 240Hz W11H Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16 Ryzen AI 7 350 8GB 4TB+4TB SSD RTX5070/8GB 16" FHD+ 144Hz W11H Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 i5 13420H 16GB 1TB SSD RTX5060/8GB 15.6" FHD 144Hz W11H Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Katana 17 HX i7-14650HX 24GB 1TB SSD RTX5070/8GB 17.3'' 2K QHD 240Hz W11P Gaming Laptop B14WGK
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vector 18 HX AI Ultra 9 275HX 40GB 2TB SSD RTX5070Ti/12GB 140W 18" QHD+ 240Hz W11H Gaming
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Latitude 3540 Intel Core i5 1235U 12GB 1TB SSD 15.6" FHD W11P & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vivobook 15 X1504ZA-BQ325W03 i7-1255U 16GB 1TBSSD 15.6" FullHD W11H Taşınabilir Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Pro 16 XCTOPRO16-U008 Core5-120U 16GB 512SSD 16" WUXGA W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 80GB 1TB SSD RTX5060/8GB 16" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen16 Ryzen AI 9-365 40GB 256GB SSD RTX5070/8GB 115W 16" QHD+ 240Hz W11H Gaming Laptop &Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Extensa 15 EX215-55 i7-1255U 24GB RAM 1TB SSD 15.6'' FHD W11P Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Crosshair 17 HX AI Ultra 9 275HX 24GB 512GB SSD RTX5070/8GB 115W 17" 2K QHD+ 240Hz W11H Gaming
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vector 16 HX AI Ultra 7 255HX 24GB 2TB SSD RTX5070TI/12GB 140W 16'' WUXGA W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 i5 13420H 40GB 1TB SSD RTX5060/8GB 15.6" FHD 144Hz W11H Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Crosshair A17 HX R7 8840HX 32GB 512GB SSD RTX5070/8GB 115W 17" QHD+ 240Hz W11H Gaming D8WGKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 64GB 4TB+4TB SSD RTX5070Ti/12GB 16" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen16 Ryzen AI 7-350 8GB 4TB SSD RTX5060/8GB 16" FHD+ 144Hz W11H Gaming Laptop &Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo18 Ultra9 275HX 80GB 4TB SSD RTX5070Ti/12GB 18" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 17 Ryzen AI 7 350 32GB 1TB SSD RTX5060/8GB 17.3" FHD 144Hz W11P Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Alienware 16X Aurora Ultra 7 255HX 64GB 256GB SSD RTX5060/8GB 16" QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Thinkbook 14 G6 Irl 21KG00Y5TREP1 i5-1335U 16GB RAM 512GB SSD WUXGA 14" Win11P + ElektroPasaj Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Latitude 3450 i7 1355U 40GB DDR5 256GB SSD 14'' IPS W11H Taşınabilir Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Alienware 16X Aurora AC16251A002 Ultra7 255HX 16GB 1TBSSD+1TBSSD RTX5060 16" WQXGA W11H Dizüstü
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: OMEN Max 16 Ultra 7 255HX 8GB 256GB SSD RTX5080/16GB 16'' 240Hz WQXGA W11P Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Latitude 5550 Ultra 7 155U 40GB DDR5 1TB SSD 15.6'' FHD W11P Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Alienware 16X Aurora Ultra 7 255HX 80GB 2TB SSD RTX5060/8GB 16" QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: 250 G10 B2PH7ES008 i5-1334U 16GB 512SSD 15.6" FHD W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Extensa 15 EX215-55 i7-1255U 16GB RAM 2TB SSD 15.6'' FHD W11H Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V 15 ANV15-41 NH.QPFEY.002 R5-7535HS 16GB 512GB SSD RTX3050 15.6" 165Hz W11H
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: 250 G10 i5-1334U 16GB 1TB SSD 15.6" FHD W11P Taşınabilir Bilgisayar B2NC5ES 013
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Rog Strix G16 Ultra 9 275HX 16GB 1TB SSD RTX5070/8GB 240Hz 16" QHD+ W11H Gaming Laptop G615LP
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA FR83 i5-13420H 24 GB 2 TB SSD RTX3050 15.6" W11P + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Crosshair 17 HX AI Ultra 9 275HX 48GB 4TB SSD RTX5070/8GB 115W 17" 2K QHD+ 240Hz W11H Gaming
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Ideapad Slim 3 82XM00U4TX002 Ryzen7 5825U 16GB 512SSD 15.6" FHD W11P Dizüstü Bilgisayar-CNT00
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: TUF Gaming F16 Core5 210H 20GB 1TB SSD RTX3050/6GB 16" WUXGA 144Hz W11P Laptop FX607VJ
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen16 Ryzen AI 9-365 40GB 2TB SSD RTX5070/8GB 115W 16" QHD+ 240Hz W11P Gaming Laptop &Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Rog Strix G18 i9 14900HX 16GB 1TB SSD RTX5060/8GB 240Hz 16" QHD+ W11H Gaming Laptop G815JMR
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16 Core 7 240H 48GB 4TB+4TB SSD RTX5060/8GB 16" FHD+ 165Hz W11H Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 i7 13620H 96GB 256GB SSD RTX5060/8GB 15.6" FHD 144Hz W11P Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Ideapad Slim 5 i5-13420H 24GB DDR5 256GB SSD UHD Graphics 14'' WUXGA OLED W11H Dizüstü Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Inspiron 15 3530 i5 1334U 36GB 512GB SSD 15.6'' FHD 120Hz W11P Dizüstü Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ExpertBook P3405CVA-I7161TBG1DEP10 i7-13620H 32GB RAM 2TB SSD 14" WUXGA Win11P + ElektroPasaj Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen Slim 16 Ultra 9 285H 96GB 256GB SSD RTX5060/8GB 16" FHD+ 165Hz W11P Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 R9-8940HX 24GB 1TB SSD RTX5070/8GB 16" QHD+ 240Hz W11H Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Precision 3591 Ultra 7 155H 32GB 256GB SSD RTX A500/4GB 15.6" FHD W11H Workstation & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 16 i5 14450HX 64GB 4TB SSD RTX3050/6GB 16.1" FHD 144Hz W11H Gaming Laptop & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 17 i7 13620H 64GB 2TB SSD RTX5060/8GB 17.3" FHD 144Hz W11H Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Aspire Lite i7 12650H 24GB DDR5 2TB SSD 15.6" FHD W11P Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Nitro V16 i5-14450HX 32GB 4TB SSD RTX4050/6GB 85W 16'' WUXGA 165Hz W11H Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Excalibur G870 i7-13620H 16GB 480GB RTX5060 8GB 165Hz 15.6" W11H Gaming Laptop G870.1362-BV60A-C
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: TUF Gaming F16 Core5 210H 64GB 2TB SSD RTX3050/6GB 16" WUXGA 144Hz W11P Laptop FX607VJ
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Precision 3591 Ultra 7 155H 48GB 256GB SSD RTX A500/4GB 15.6" FHD W11H Workstation & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 R5 8645HS 24GB RAM 2TB SSD RTX3050/6GB 144Hz 15.6'' FHD W11H Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 Intel Core 5 210H 48GB 512GB SSD RTX5060/8GB 15.6" FHD W11H Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA FR63 i5-13420H 24 GB 1 TB SSD RTX3050 15.6" W11H + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 R5 7535HS 16GB 2TB SSD RTX2050/4GB 15.6'' 144Hz FHD W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA FR106 i5-13420H 16 GB 512 GB SSD RTX3050 15.6" W11H + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vostro 3530 Intel Core i5 1334U 16GB 2TB SSD 15.6" FHD W11P & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 Intel Core 5 210H 128GB 4TB+4TB SSD RTX5060/8GB 15.6" FHD W11H Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vector 18 HX AI Ultra 9 275HX 8GB 512GB SSD RTX5070Ti/12GB 140W 18" QHD+ 240Hz W11H Gaming
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Crosshair A17 HX R7 8840HX 64GB 1TB SSD RTX5070/8GB 115W 17" QHD+ 240Hz W11H Gaming D8WGKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: V16 Core 7 240H 16GB 2TB SSD RTX5070/8GB 16" FHD+ 144Hz W11H Gaming Laptop V3607VP & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA FR6 i5-13420H 16 GB 1 TB SSD RTX3050 15.6" W11P
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: V16 Core 7 240H 24GB 2TB SSD RTX5070/8GB 16" FHD+ 144Hz W11P Gaming Laptop V3607VP & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 17 HX i7-14650HX 24GB 2TB SSD RTX5060/8GB 17.3'' 2K QHD 240Hz W11P Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ExpertBook B5 Ultra 7 255H 24GB 512GB SSD 14" FHD+ W11H Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16 R9-8940HX 64GB 2TB SSD RTX5070/8GB 16" QHD+ 240Hz W11P Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 R9-8940HX 48GB 2TB SSD RTX5070/8GB 16" FHD+ 144Hz W11P Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 80GB 4TB SSD RTX5060/8GB 16" QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Extensa 15 EX215-55 i7-1255U 40GB RAM 2TB SSD 15.6'' FHD W11H Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Crosshair A17 HX R7 8840HX 16GB 4TB SSD RTX5070/8GB 115W 17" QHD+ 240Hz W11P Gaming D8WGKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 17 i7 13620H 80GB 2TB SSD RTX5060/8GB 17.3" FHD 144Hz W11H Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 A13VF3 i7-13620H 16GB 2TB SSD RTX4060/8GB 15.6" FHD 144HZ W11P & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vostro 3530 i7-1355U 40GB 1TB SSD 15.6" 120 Hz FHD Win11P N1601PVNB3530U ATL97 Notebook +Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Nitro V15 i9 13900H 40GB 512GB SSD RTX4060/8GB 15.6'' 165Hz FHD W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Katana 17 HX i9-14900HX 48GB 512GB SSD RTX5070/8GB 17.3'' 2K QHD 240Hz W11H Gaming Laptop B14WGK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 Intel Core 7 240H 32GB 4TB SSD RTX5060/8GB 15.6'' 144Hz FHD W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 Intel Core 5 210H 64GB 256GB SSD RTX5060/8GB 15.6" FHD W11H Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16 Ryzen AI 7 350 16GB 256GB SSD RTX5070/8GB 16" FHD+ 144Hz W11H Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Latitude 3540 Intel Core i5 1235U 12GB 4TB SSD 15.6" FHD W11P & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 16-S1010NT 9Z790EA FR7 8GB RTX4060 Ryzen 7 8845HS 16 GB 1 TB 16,1" FHD 144Hz W11P
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Ideapad Slim 3 Intel Core I7-13620H 16GB 512GB SSD W11P 16" Bilgisayar CsrTech Çantalı
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Nitro V15 R5 7535HS 24GB 512GB SSD RTX3050/6GB 15.6'' 144Hz FHD W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vostro 3530 Intel Core i5 1334U 12GB 2TB SSD 15.6" FHD W11H & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 R5 8645HS 32GB RAM 4TB SSD RTX3050/6GB 144Hz 15.6'' FHD W11H Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Thinkbook 14 21KG00UCTR12 i5-13420H 16GB 1TBSSD 14" FHD+ W11P Dizüstü Bilgisayar-CNT013
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ROG Strix G16 i7 14650HX 16GB 2TB SSD RTX5060/8GB 240Hz WQXGA 16'' W11H G615JMR Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Latitude 5550 Ultra 7 155U 16GB DDR5 1TB SSD 15.6'' FHD W11P Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 Intel Core 7 240H 40GB 1TB SSD RTX5060/8GB 15.6" FHD W11P Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: IdeaPad Slim 5 Ryzen AI 7 350 48GB DDR5 4TB SSD 16" WUXGA W11P Dizüstü Bilgisayar & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ThinkPad E16 Gen 2 Ultra 7 155H 32GB 2TB SSD 16" WUXGA W11P Dizüstü Bilgisayar 21MA002UTX 020
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen16 Ryzen AI 9-365 40GB 1TB SSD RTX5070/8GB 115W 16" QHD+ 240Hz W11H Gaming Laptop &Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 Intel Core 7 240H 16GB 1TB SSD RTX5060/8GB 15.6" FHD W11P Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Excalibur G870 i7-13620H 32GB 1TB RTX5070 8GB 165Hz 15.6" W11P Gaming Laptop G870.1362-DF70R-C
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 R5 8645HS 48GB RAM 2TB SSD RTX4060/8GB 144Hz 15.6'' FHD W11P Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Extensa 15 EX215-55 i7-1255U 36GB RAM 1TB SSD 15.6'' FHD W11H Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Rog Strix G16 Ultra 9 275HX 16GB 512GB SSD RTX5070/8GB 240Hz 16" QHD+ W11H Gaming Laptop G615LP
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: 17-CN5075CL B9700TT006 Ultra7 255U 48GB 1TBSSD 17.3" HD+ Touch W11H Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ThinkBook 16P G6 Ultra9 275HX 16GB 512GB SSD RTX5060/8GB 115W 16" 3.2K 165Hz W11H Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 16-S1010NT 9Z790EA C23 8GB RTX4060 Ryzen 7 8845HS 48 GB 2 TB 16,1" FHD 144Hz W11H + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vostro 3530 i7 1355U 12GB RAM 2TB SSD 15.6'' FHD W11P Taşınabilir Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: IdeaPad Slim 5 Ryzen AI 7 350 24GB DDR5 4TB SSD 16" WUXGA W11H Dizüstü Bilgisayar & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: TUF Gaming F16 Core 5 210H 40GB 4TB SSD RTX4050/6GB 140W WUXGA 16" W11P LP029 & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 17 HX i9-14900HX 40GB 2TB SSD RTX5070/8GB 17.3'' 2K QHD 240Hz W11H Gaming Laptop B14WGK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vector 18 HX AI Ultra 9 275HX 24GB 512GB SSD RTX5070Ti/12GB 140W 18" QHD+ 240Hz W11P Gaming
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 A13VE7 i7-13620H 8GB 1TB SSD RTX4050/6GB 15.6" FHD 144HZ W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Katana 17 HX i9-14900HX 96GB 512GB SSD RTX5060/8GB 17.3'' 2K QHD 240Hz W11P Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ThinkBook 14 G8 Intel Core 7 240H 96GB 256GB SSD 14" WUXGA W11P Dizüstü Bilgisayar & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo 16 AI Ultra 9 275HX 32GB 2TB SSD RTX5070Ti/12GB 170W 16" QHD+ W11H
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: V15 83A100HXTR009 i7-1355U 16GB 512SSD 15.6" FHD W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 Intel Core 7 240H 48GB 1TB SSD RTX5060/8GB 15.6'' 144Hz FHD W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 16-S1010NT 9Z790EA C26 8GB RTX4060 Ryzen 7 8845HS 32 GB 2 TB 16,1" FHD 144Hz W11P + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Alienware 16 Aurora Core5 210H 16GB 2TB SSD RTX4050/6GB 85W 16" 2K QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 R7 8845HS 24GB DDR5 1TB SSD RTX4050/6GB 15.6'' 144Hz W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Expertbook P1 P1403CVA-I58512G1DEP3 i5-13420H 32GB 512GB SSD 14" FullHD Win11P + ElektroPasaj Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Nirvana S100 Intel Core Ultra 7-255H 16GB DDR5 2TB SSD W11H 16" S100.255H-BX00A-G-F
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vostro 3530 i7 1355U 36GB RAM 2TB SSD 15.6'' FHD W11P Taşınabilir Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 A13VE7 i7-13620H 32GB 256GB SSD RTX4050/6GB 15.6" FHD 144HZ W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vector 16 HX AI Ultra 9 275HX 40GB 4TB SSD RTX5070/8GB 115W 16" QHD+ 240Hz W11H Gaming
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 i7-13620H 40GB 1TB SSD RTX4060/8GB 144Hz 15.6'' FHD W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 Intel Core 7 240H 32GB 4TB+4TB SSD RTX5060/8GB 15.6" FHD W11P Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: NevoPro NP40.1362-EF00R-G-F i7-13620H 64 GB 1 TB SSD 14" W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Crosshair A17 HX R7 8840HX 128GB 2TB SSD RTX5070/8GB 115W 17" QHD+ 240Hz W11H Gaming D8WGKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vector 16 HX AI Ultra 9 275HX 16GB 512GB SSD RTX5080/16GB 175W 16'' WQXGA W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 R7 7735HS 64GB 2TB SSD RTX4050/6GB 75W 15.6'' FHD 165Hz W11H Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ExpertBook P1 Intel Core 7 240H 96GB 256GB SSD 15.6" FHD W11H Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ROG Strix G16 R9 9955HX 8GB 4TB SSD RTX5070Ti/12GB 140W 240HZ 16'' 2.5K W11P Gaming & PER4
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ROG Strix G16 i7 14650HX 8GB 256GB SSD RTX5060/8GB 240Hz WQXGA 16'' W11H G615JMR Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16 R9-8940HX 96GB 256GB SSD RTX5070/8GB 16" QHD+ 240Hz W11P Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ExpertBook B5 Ultra 7 255H 24GB 1TB SSD 14" FHD+ W11H Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 Intel Core 7 240H 8GB 4+4TB SSD RTX5060/8GB 15.6'' 144Hz FHD W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Precision M7780 XCTOP7780EMEA_VP1A5 i7-13850HX 32GB 1TBSSD+1TBSSD RTX3500 17.3" FullHD W11P Taş
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 i5 13420H 128GB 512GB SSD RTX5060/8GB 15.6" FHD 144Hz W11H Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 Intel Core 5 210H 80GB 512GB SSD RTX5060/8GB 15.6" FHD W11H Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ThinkPad E16 AMD Ryzen 5 220 64GB 256GB SSD 16" FHD+ W11H Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA FR61 i5-13420H 16 GB 1 TB SSD RTX3050 15.6" W11H + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 i5-13420H 64GB 2TB SSD RTX4050/6GB 15.6'' FHD 144Hz W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vivobook S16 i7 13620H 40GB DDR5 2TB SSD 16" 144Hz WUXGA W11H S3607VA Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo18 Ultra9 275HX 8GB 256GB SSD RTX5070Ti/12GB 18" QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 R7 7735HS 48GB 256GB SSD RTX4050/6GB 75W 15.6'' FHD 165Hz W11P Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 16 R5 7640HS 24GB RAM 256GB SSD RTX4060/8GB 144Hz 16.1'' FHD W11H Gaming Laptop & PER4
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 A13UC-2087XTR008 i5-13420H 16GB 512SSD RTX3050 15.6" FHD W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo18 Ultra9 275HX 48GB 1TB SSD RTX5070Ti/12GB 18" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vector 18 HX AI Ultra 9 275HX 24GB 1TB SSD RTX5070Ti/12GB 140W 18" QHD+ 240Hz W11P Gaming
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen Slim 16 Ultra 9 285H 8GB 256GB SSD RTX5060/8GB 16" FHD+ 165Hz W11P Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ThinkBook 14 G8 Intel Core 7 240H 32GB 4TB SSD 14" WUXGA W11H Dizüstü Bilgisayar & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo 16 AI PHN16-73-9128A010 Ultra9 275HX 32GB 2TBSSD RTX5060 16" WQXGA W11P Diz
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA FR84 i5-13420H 48 GB 2 TB SSD RTX3050 15.6" W11P + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: OMEN 17 R7 8845HS 16GB RAM 1TB SSD RTX4070/8GB 144Hz 17.3'' FHD W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Excalibur G915 i7-13620H 12 GB 1TB RTX5060 165HZ 16" W11H Gaming Laptop G915.1362-AF60A-C
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 80GB 1TB SSD RTX5070Ti/12GB 16" QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ExpertBook P1 Intel Core 7 240H 48GB 4TB SSD 15.6" FHD W11H Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: VENTUREPRO 15 Intel Core 7-240H 64GB 256GB SSD RTX5050/8GB 15.6'' FHD 144Hz W11P Laptop A2RWEG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 i5 12500H 32GB 4TB SSD RTX4060/8GB 144Hz 15.6'' FHD W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Latitude 3550 i7 1355U 48GB 256GB SSD MX570A/2GB 15.6'' W11P Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vector 16 HX AI Ultra 9 275HX 96GB 256GB SSD RTX5070/8GB 115W 16" QHD+ 240Hz W11H Gaming
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 17 i7 13620H 24GB 2TB SSD RTX5060/8GB 17.3" FHD 144Hz W11H Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 R5 7535HS 64GB 1TB SSD RTX2050/4GB 15.6'' 144Hz FHD W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: VENTUREPRO 15 Intel Core 7-240H 24GB 512GB SSD RTX5050/8GB 15.6'' FHD 144Hz W11P Laptop A2RWEG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 Core 7 240H 8GB 1TB SSD RTX5060/8GB 16" FHD+ 165Hz W11H Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: TUF Gaming A15 R7 7435HS 32GB 4TB SSD RTX4060/8GB 144Hz 15.6" FHD W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Rog Strix G16 i5 13450HX 8GB 1TB SSD RTX5050/8GB 165Hz 16" FHD+ W11H Gaming Laptop G615JH
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 i5-13420H 16GB 2TB SSD RTX4050/6GB 15.6'' FHD 144Hz W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 Intel Core 7 240H 8GB 512GB SSD RTX5060/8GB 15.6" FHD W11H Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 i9 13900H 16GB 1TB SSD RTX4060/8GB 15.6'' 165Hz FHD W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Nitro V15 R5 7535HS 40GB 2TB SSD RTX2050/4GB 15.6'' 144Hz FHD W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 A13VF i5-13420H 64GB 2TB SSD RTX4060/8GB 15.6" FHD 144HZ W11P & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 16GB 512GB SSD RTX5070Ti/12GB 16" QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: TUF Gaming A15 R7 7435HS 48GB 1TB SSD RTX4060/8GB 144Hz 15.6" FHD W11P & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 Ryzen AI 7 350 64GB 512GB SSD RTX5070/8GB 16" FHD+ 144Hz W11P Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Crosshair A17 HX R7 8840HX 24GB 512GB SSD RTX5070/8GB 115W 17" QHD+ 240Hz W11P Gaming D8WGKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Alienware 16 Aurora Core5 210H 8GB 4TB SSD RTX4050/6GB 85W 16" 2K QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Extensa 15 EX215-55 i7-1255U 24GB RAM 2TB SSD 15.6'' FHD W11P Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 17 HX i9-14900HX 24GB 1TB SSD RTX5070/8GB 17.3'' 2K QHD 240Hz W11P Gaming Laptop B14WGK
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Crosshair A17 HX R7 8840HX 24GB 4TB SSD RTX5070/8GB 115W 17" QHD+ 240Hz W11H Gaming D8WGKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA FR100 i5-13420H 40 GB 4 TB SSD RTX3050 15.6" W11P + Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Excalibur G920 i9-1490HX 64GB 1TB RTX5090 300HZ 16" W11H Gaming Laptop G920.1490-EF90A-E
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vostro 3530 Intel Core i5 1334U 12GB 512GB SSD 15.6" FHD W11P & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 8GB 2TB SSD RTX5060/8GB 16" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 15-FA2704NT B7TG9EA010 i5-13420H 16GB 512SSD RTX3050 15.6" FHD W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ExpertBook B1 Intel Core 7 150U 96GB 4TB SSD 15.6" FHD W11H Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen Slim 16 Ultra 9 285H 32GB 2TB SSD RTX5060/8GB 16" FHD+ 165Hz W11P Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo 16 AI Ultra 9 275HX 48GB 256GB SSD RTX5070Ti/12GB 170W 16" QHD+ W11P
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 40GB 4TB+4TB SSD RTX5060/8GB 16" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: V16 V3607VU-RP061W Core 5 210H 8GB 512SSD RTX4050 16" FullHD+ W11H Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Expertbook B1 B1403CVA I5-1334U 24GB DDR5 512GB SSD 14" FHD LED 300nits W11P B1403CVAH05+ZETTACNT
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 R7 8845HS 96GB DDR5 1TB SSD RTX4050/6GB 15.6'' 144Hz W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 Ryzen AI 7 350 32GB 4TB+4TB SSD RTX5070/8GB 16" FHD+ 144Hz W11H Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 Intel Core 7 240H 8GB 1TB SSD RTX5060/8GB 15.6'' 144Hz FHD W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15-FA2036NT C52QWEA FR37 i7-13620H 16 GB 4 TB RTX5050 8GB 15.6 FHD W11H
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 i5-13420H 48GB 1TB SSD RTX4050/6GB 15.6'' FHD 144Hz W11P & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 Ryzen AI 5-340 96GB 256GB SSD RTX5050/8GB 15.6" FHD 144Hz W11H Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vostro 3530 i5-1334U 24GB 512GB SSD 15.6" FHD Win11P N3409PVNB3530U ATL81 Notebook +Çanta Hediy
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vostro 3530 i7 1355U 8GB 2TB SSD 15.6" FHD 120 Hz W11H Taşınabilir Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Precision 3591 Ultra 7 155H 16GB 512GB SSD RTX A500/4GB 15.6" FHD W11H Workstation & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo 16 AI Ultra 9 275HX 24GB 4TB+4TB SSD RTX5070Ti/12GB 170W 16" QHD+ W11P
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Nitro V15 R7-7735HS 48GB 2TB SSD RTX4060/8GB 15.6'' 165Hz FHD W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: TUF F16 FX608JMR-RV067EP6 i7-14650HX 32GB 512GB SSD RTX5060 16" 165Hz Win11P + ElektroPasaj Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen16 Ryzen AI 7-350 16GB 4TB SSD RTX5060/8GB 16" FHD+ 144Hz W11H Gaming Laptop &Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ThinkBook 16P G6 Ultra9 275HX 80GB 512GB SSD RTX5060/8GB 115W 16" 3.2K 165Hz W11H Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 i5 13420H 96GB 1TB SSD RTX5060/8GB 15.6" FHD 144Hz W11P Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Alienware 16 Aurora Core5 210H 8GB 512GB SSD RTX4050/6GB 85W 16" 2K QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Extensa 15 EX215-55 i7-1255U 20GB RAM 4TB SSD 15.6'' FHD W11H Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo 16 AI Ultra 9 275HX 64GB 4TB SSD RTX5070Ti/12GB 170W 16" QHD+ W11H
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: VivoBook16 Core5 210H 24GB 256GB SSD RTX5060/8GB 16" FHD+ 144Hz W11H Dizüstü Bilgisayar V3607VM
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Vostro i7-1355U 64GB 2TB SSD 15.6" FHD 120Hz W11P Taşınabilir Bilgisayar N1605PVNB3530U 017
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: TUF Gaming A15 R5 7535HS 96GB 256GB SSD RTX3050/4GB 144Hz 15.6" FHD W11H HN047 & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16 R9-8940HX 64GB 4TB SSD RTX5070/8GB 16" QHD+ 240Hz W11P Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 Ryzen AI 7 350 32GB 2TB SSD RTX5070/8GB 16" FHD+ 144Hz W11H Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 16GB 1TB SSD RTX5060/8GB 16" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 Intel Core 5 210H 24GB 1TB SSD RTX5060/8GB 15.6" FHD W11H Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: V16 Core 7 240H 48GB 512GB SSD RTX5070/8GB 16" FHD+ 144Hz W11P Gaming Laptop V3607VP & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 i5 13420H 48GB 256GB SSD RTX5060/8GB 15.6" FHD 144Hz W11P Gaming Laptop B13WFKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: TUF Gaming A15 R5 7535HS 32GB 512GB SSD RTX3050/4GB 144Hz 15.6" FHD W11H HN049 & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Katana 15 i7 14650HX 80GB 256GB SSD RTX5060/8GB 115W 15.6" QHD 165Hz W11P Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 Intel Core 7 240H 40GB 512GB SSD RTX5060/8GB 15.6'' 144Hz FHD W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Alienware 16 Aurora Core5 210H 128GB 2TB SSD RTX4050/6GB 85W 16" 2K QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Excalibur G915 i7-13620H 32GB 1TB 8GB RTX5060 165Hz 16" W11H Gaming Laptop G915.1362-DF60A-C
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Katana 15 i7 14650HX 16GB 256GB SSD RTX5060/8GB 115W 15.6" QHD 165Hz W11H Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: V16 Core 7 240H 24GB 2TB SSD RTX5070/8GB 16" FHD+ 144Hz W11H Gaming Laptop V3607VP & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Omen 16-AM0037NT C39JBEA019 Ultra5 225H 64GB 2TBSSD RTX5060 16" WUXGA W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 R9-8940HX 80GB 256GB SSD RTX5070/8GB 16" FHD+ 144Hz W11P Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 Intel Core 7 240H 80GB 512GB SSD RTX5060/8GB 15.6'' 144Hz FHD W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ThinkBook 14 G6 i7 13700H 8GB DDR5 2TB SSD 14'' FHD+ W11P Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 A13VF i5-13420H 24GB 4TB SSD RTX4060/8GB 15.6" FHD 144HZ W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 Intel Core 5 210H 80GB 2TB SSD RTX5060/8GB 15.6" FHD W11P Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ExpertBook P1 Intel Core 7 240H 48GB 4TB SSD 15.6" FHD W11P Dizüstü Bilgisayar & PER4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 Ryzen AI 7 350 48GB 1TB SSD RTX5070/8GB 16" FHD+ 144Hz W11H Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Excalibur G880 i7-13620H 16GB 480GB RTX5070 8GB 165Hz 15.6" W11H Gaming Laptop G880.1362-BV70A-C
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 16-S1023NT Ryzen 7-8845HS 9Z795EA FR7 16 GB 1 TB SSD RTX4050 6GB 16.1" FHD W11P Gaming
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen Slim 16 Ultra 9 285H 80GB 256GB SSD RTX5060/8GB 16" FHD+ 165Hz W11P Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 17 HX i9-14900HX 32GB 512GB SSD RTX5070/8GB 17.3'' 2K QHD 240Hz W11H Gaming Laptop B14WGK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: TUF Gaming F16 Core5 210H 24GB 2TB SSD RTX3050/6GB 16" WUXGA 144Hz W11P Laptop FX607VJ
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo 16 AI Ultra 9 275HX 32GB 1TB SSD RTX5070Ti/12GB 170W 16" QHD+ W11H
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Katana 17 HX i9-14900HX 24GB 512GB SSD RTX5060/8GB 17.3'' 2K QHD 240Hz W11P Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Cyborg 15 A13VE7 i7-13620H 64GB 4TB SSD RTX4050/6GB 15.6" FHD 144HZ W11H & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Tuf A15 R7-7445HS 48GB 2TB SSD RTX3050/4GB 144Hz FHD 15.6" W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: TUF F16 FX608JMR-RV067EP3 i7-14650HX 64GB 1TB SSD RTX5060 16" 165Hz Win11P + ElektroPasaj Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Predator Helios Neo18 Ultra9 275HX 8GB 512GB SSD RTX5070Ti/12GB 18" QHD+ W11H Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Cyborg 15 Intel Core 5 210H 16GB 512GB SSD RTX5060/8GB 15.6" FHD W11H Gaming Laptop B2RWFKG
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo16 Ultra9 275HX 32GB 2TB SSD RTX5060/8GB 16" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 17 Ryzen AI 7 350 48GB 512GB SSD RTX5060/8GB 17.3" FHD 144Hz W11H Gaming Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ThinkPad P14S G5 R7-8840HS 64GB 2TB SSD Radeon 780M 14" WUXGA W11P Laptop & Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Ideapad Slim 5 83HR0049TR013 i5-13420H 16GB 1TBSSD 14" WUXGA W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Ideapad Slim 5 i5-13420H 8GB DDR5 2TB SSD UHD Graphics 14'' WUXGA OLED W11P Dizüstü Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 16-S1010NT 9Z790EA FR38 8GB RTX4060 Ryzen 7 8845HS 32 GB 4 TB 16,1" FHD 144Hz W11H
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 Intel Core 7 240H 64GB 4+4TB SSD RTX5060/8GB 15.6'' 144Hz FHD W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: OMEN 17 R7 8845HS 48GB RAM 2TB SSD RTX4070/8GB 144Hz 17.3'' FHD W11H Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Victus 15 R5 8645HS 24GB RAM 1TB SSD RTX4060/8GB 144Hz 15.6'' FHD W11H Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Alienware 16 Aurora Core5 210H 96GB 2TB SSD RTX4050/6GB 85W 16" 2K QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Vector 16 HX AI Ultra 9 275HX 96GB 1TB SSD RTX5080/16GB 175W 16'' WQXGA W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Katana 17 HX i7-14650HX 96GB 512GB SSD RTX5060/8GB 17.3'' 2K QHD 240Hz W11H Gaming Laptop B14WFK
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Predator Helios Neo18 Ultra9 275HX 16GB 4TB SSD RTX5070Ti/12GB 18" QHD+ W11P Gaming Laptop
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Omen 16 Core 7 240H 16GB 256GB SSD RTX5060/8GB 16" FHD+ 165Hz W11P Gaming Laptop & Per4 Çanta
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Latitude 3550 i5 1335U 96GB 256GB SSD 15.6'' FHD W11H N015L355015 & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Nitro V15 i9 13900H 24GB 4TB SSD RTX4060/8GB 15.6'' 165Hz FHD W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 R5 8645HS 48GB RAM 2TB SSD RTX3050/6GB 144Hz 15.6'' FHD W11P Gaming Laptop & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Inspiron 3530 I3530122024U08 i5-1334U 16GB 512SSD 15.6" FHD W11P Dizüstü Bilgisayar-CNT009
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Victus 15 Core5 210H 8GB 256GB SSD RTX5060/8GB 15.6" FHD 144Hz W11P Gaming Laptop & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Crosshair 17 HX AI Ultra 7 255HX 16GB 1TB SSD RTX5070/8GB 115W 17" 2K QHD+ 240Hz W11H Gaming
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: Rog Strix G16 i5 13450HX 8GB 256GB SSD RTX5050/8GB 165Hz 16" FHD+ W11H Gaming Laptop G615JH
+Mismatch: Expected: windows 11, Got: windows 11 home
+------------
+Name: ThinkBook 14 G6 i7 13700H 16GB DDR5 256GB SSD 14'' FHD+ W11P Dizüstü Bilgisayar & PER4 ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: ProBook 460 G11 Ultra 7 155U 8GB DDR5 256GB SSD 16" WUXGA W11P Dizüstü Bilgisayar & ÇANTA
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
+Name: Inspiron 3530 I35301103U008 i7-1355U 16GB 2TBSSD 15.6" FHD W11P Dizüstü Bilgisayar
+Mismatch: Expected: windows 11, Got: windows 11 pro
+------------
