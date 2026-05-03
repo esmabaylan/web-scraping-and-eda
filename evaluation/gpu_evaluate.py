@@ -16,7 +16,7 @@ df=pd.read_csv("data/evaluate_data/sample_data/gpu_sample.csv")
 
 extract_tag= df["name"].apply(lambda x: extract_gpu(x))
 
-real_tag=pd.read_csv("data/evaluate_data/golden_data/gpu_labelled.csv")
+real_tag=pd.read_csv("data/evaluate_data/golden_data/gpu_labeled.csv")
 
 counter = 0
 with open("data/evaluate_data/missmatchData/gpu_mismatches.txt", "w") as f:

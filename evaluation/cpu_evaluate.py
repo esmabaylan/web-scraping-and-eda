@@ -21,7 +21,7 @@ df=pd.read_csv("data/evaluate_data/sample_data/cpu_sample.csv")
 
 extract_tag= df["name"].apply(lambda x: extract_cpu(x))
 
-real_tag=pd.read_csv("data/evaluate_data/golden_data/cpu_labelled.csv")
+real_tag=pd.read_csv("data/evaluate_data/golden_data/cpu_labeled.csv")
 
 
 
