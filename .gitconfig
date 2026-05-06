@@ -1,0 +1,10 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Esma BAYLAN
+	email = 116032258+esmanuray@users.noreply.github.com
+[credential]
+	helper = "!f() { /home/jovyan/.vscode-server/bin/034f571df509819cc10b0c8129f66ef77a542f0e/node /tmp/vscode-remote-containers-e916e361-7893-4362-958e-b83e7fa50970.js git-credential-helper $*; }; f"

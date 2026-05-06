@@ -53,6 +53,19 @@ intel_cpu_pattern = re.compile(
         \d{3,5}(?:HX|HK|HQ|KS|KF|TE|XE|QM|H|U|P|Y|K|F|T|X|M|V|G[1-7])
     )
     \b
+    |
+    \b
+    (
+        # Intel Celeron N4020, N5100, J4125
+        (?:intel\s*)?
+        celeron\s*
+        (?:
+            [NJ]\d{4}          # N4020, J4125 gibi
+            |
+            \d{4}[A-Z]?        # 3865U gibi
+        )
+    )
+    \b
     """, 
     re.IGNORECASE | re.VERBOSE)
 
@@ -62,7 +75,8 @@ amd_cpu_pattern=re.compile(
     # ================= AMD =================
     (
         (amd\s*)?                   # "amd" opsiyonel
-        (?:ryzen|r)                 # "ryzen" veya "r" (yakalamayan grup)
+        (?<![a-zA-Z])
+       (?:ryzen|r)                 # "ryzen" veya "r" (yakalamayan grup)
         \s*™?
         \s*
         [3579]                      # 3, 5, 7, 9 serisi
@@ -74,11 +88,13 @@ amd_cpu_pattern=re.compile(
         (pro|)                          # Model numarası opsiyonel
     )
     |
-    
+
     # 4552
     (
+        (?<![a-zA-Z])               # Önünde harf OLMAMALI (LPDDR5X gibi durumları engeller)
         (R[-][3579])                # R-5, R-7, R-9 serisi
-        (\s*[-]?\s*\d{3,5}[a-z]{0,2})?  # Model numarası (370 gibi)
+        (\s*[-]?\s*\d{3,5}[a-z]{0,2})?
+        (?!\w)                      # Arkasında kelime karakteri OLMAMALI
     )
     |    
     #Um5606Wa-Rk295W AMD Ryzen AI 9 Hx370 32Gb RAM 1TB SSD AMD Radeon Graphics 16" 3K Oled Win11 Bey    

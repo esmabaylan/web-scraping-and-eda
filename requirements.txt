@@ -3,3 +3,6 @@ numpy
 pytest
 regex
 streamlit
+xgboost
+lightgbm
+joblib

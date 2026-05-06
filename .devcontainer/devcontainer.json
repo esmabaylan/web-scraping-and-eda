@@ -7,7 +7,7 @@
     
     "service": "jupyter",
 
-    "workspaceFolder": "/home/jovyan/work",
+    "workspaceFolder": "/work",
     "shutdownAction": "stopCompose",
     "remoteUser": "jovyan",
     "customizations": {
